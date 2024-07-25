@@ -1,10 +1,10 @@
-Example of using Telefunc with [Vite](https://vitejs.dev) and [Vike](https://vike.dev).
+Reproduce issue from [Vike discussion 1768](https://github.com/vikejs/vike/discussions/1768)
 
 To run it:
 
 ```bash
-git clone git@github.com:brillout/telefunc
-cd telefunc/examples/vike/
-npm install
-npm run dev
+git clone https://github.com/bravius/vike-warning-repro.git
+cd vike-warning-repro
+yarn
+yarn dev
 ```
